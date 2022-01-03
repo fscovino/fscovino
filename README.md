@@ -52,5 +52,3 @@
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
 | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
 
-
-**Francisco Scovino** | *Web Developer & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
