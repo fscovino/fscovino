@@ -50,5 +50,6 @@
 | JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
 | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
-| WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
+| Java | [Fuzion Viewer](https://github.com/fscovino/Fuzion-Viewer) | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
+| Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) | Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) |
 
