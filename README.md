@@ -42,7 +42,7 @@
   </tbody>
 </table>
 
-## Some of my Projects
+# 🛠 Some of my Projects
 
 | Language | Link to Project | Language | Link to Project |
 | ----------- | ----------- | ----------- | ----------- |
