@@ -1,7 +1,5 @@
 
-# HOME PAGE
-
-Welcome to my GitHub portfolio
+<a href="https://www.linkedin.com/in/francisco-scovino/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 
 <table>
   <tbody>
@@ -44,7 +42,7 @@ Welcome to my GitHub portfolio
   </tbody>
 </table>
 
-## Some Websites I have created
+## Some of my Projects
 
 | Language | Link to Project | Language | Link to Project |
 | ----------- | ----------- | ----------- | ----------- |
@@ -54,7 +52,5 @@ Welcome to my GitHub portfolio
 | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
 | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) | WordPress & WooCommerce | [Kodiak Technology](https://kodiakoriginal.com/) |
 
-
-## Author - <a href="https://www.linkedin.com/in/francisco-scovino/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 
 **Francisco Scovino** | *Web Developer & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
