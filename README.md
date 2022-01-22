@@ -47,9 +47,10 @@
 | Language | Link to Project | Language | Link to Project |
 | ----------- | ----------- | ----------- | ----------- |
 | React.JS (M.E.R.N) | [Kanban](https://github.com/fscovino/kanban) | WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
-| JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
-| HTML & CSS | [Money with Kathy](https://zz880.csb.app/) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
-| HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
-| Java | [Fuzion Viewer](https://github.com/fscovino/Fuzion-Viewer) | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
-| Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) | Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) |
+| React.JS (Java Spring Boot) | [Kanban Spring](https://github.com/fscovino/kanban-spring) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
+| JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
+| HTML & CSS | [Money with Kathy](https://zz880.csb.app/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
+| HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
+| Java | [Fuzion Viewer](https://github.com/fscovino/Fuzion-Viewer) | Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) |
+| Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) 
 
