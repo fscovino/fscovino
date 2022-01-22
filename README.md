@@ -52,5 +52,5 @@
 | Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
 | Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
 | | | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
-| | | WordPress & UnderStatrp Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
+| | | WordPress & UnderStrap Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
 
