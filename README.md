@@ -46,11 +46,11 @@
 
 | Language | Link to Project | Language | Link to Project |
 | ----------- | ----------- | ----------- | ----------- |
-| React.JS (M.E.R.N) | [Kanban](https://github.com/fscovino/kanban) | WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
-| React.JS (Java Spring Boot) | [Kanban Spring](https://github.com/fscovino/kanban-spring) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
-| JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
-| HTML & CSS | [Money with Kathy](https://zz880.csb.app/) | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
-| HTML & CSS | [VHB](https://fscovino.github.io/vhb/) | WordPress, Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
-| Java | [Fuzion Viewer](https://github.com/fscovino/Fuzion-Viewer) | Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) |
-| Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) 
+| React.js (M.E.R.N) | [Kanban](https://github.com/fscovino/kanban) | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
+| React.js (Java Spring Boot) | [Kanban Spring](https://github.com/fscovino/kanban-spring) | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
+| Java | [Fuzion Viewer](https://github.com/fscovino/Fuzion-Viewer) | WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
+| Python | [Inventory List Processor](https://github.com/fscovino/Inventory-List-Processor) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
+| Python | [Web Inventory Manager](https://github.com/fscovino/Web-Inventory-Manager) | WordPress & Elementor | [CMH United Corp](https://cmhunited.com/) |
+| | | WordPress & Elementor | [Orca Trading](http://www.orcacorp.com/) |
+| | | WordPress & UnderStatrp Custom Theme | [Prismart Graphic](https://prismartgraphic.com/) |
 
