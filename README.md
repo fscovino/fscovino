@@ -46,7 +46,7 @@
 
 | Language | Link to Project | Language | Link to Project |
 | ----------- | ----------- | ----------- | ----------- |
-| React,js | [Nuova-Store](https://github.com/fscovino/nuova-store) | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
+| React.js | [Nuova-Store](https://github.com/fscovino/nuova-store) | HTML & CSS | [Money with Kathy](https://zz880.csb.app/) |
 | React.js (M.E.R.N) | [Kanban](https://github.com/fscovino/kanban) | HTML & CSS | [VHB](https://fscovino.github.io/vhb/) |
 | React.js (Java Spring Boot) | [Kanban Spring](https://github.com/fscovino/kanban-spring) | WordPress & Guthenberg | [Prismart Mobile](http://prismart.net/) |
 | JavaScript | [Task Planner](https://github.com/fscovino/Task-Planner) | WordPress & Elementor | [Leisure Appartments](https://leisure.apartments/) |
