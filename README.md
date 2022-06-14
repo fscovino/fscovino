@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/francisco-scovino/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/fscovino/Home/blob/master/Francisco%20Scovino_%40.pdf"> Download Resume</a>
+<a href="https://github.com/fscovino/Home/blob/master/Francisco%20Scovino%20cv.pdf"> Download Resume</a>
 <table>
   <tbody>
     <tr valign="top">
